@@ -1,0 +1,800 @@
+Despre aspectul radiologic al pneumoniilor sunt adevărate următoarele afirmații, cu excepția:{
+~%99.99999%Au forma triunghiulară, cu baza spre hil și vârful spre peretele toracic
+~Se prezintă ca hipertransparențe cu dimensiuni reduse
+~Sunt localizate la nivelul unui segment, iar în formele severe se pot extinde la nivelul unui lob sau al unui hemicâmp pulmonar
+~Cele mai frecvente localizări sunt segmentele inferioare ale lobilor inferiori, segmentul lingular si segmentul anterior al lobului superior
+~Pot avea un contur estompat sau unul precis, delimitat de scizură
+}
+
+În pneumoniile lobare apar următoarele modificări radiologice:{
+~%49.99999%Mediastinul este deplasat spre partea afectată, hemidiafragmul este coborât
+~%49.99999%Mediastinul este deplasat spre partea afectată, hemidiafragmul este în poziție normală
+~Mediastinul nu este deplasat, hemidiafragmul este în poziție normală
+~Mediastinul este deviat spre partea opusă, hemidiafragmul este în poziție normală
+~Sinusurile costo-diafragmatice sunt rareori opacifiate, în pneumoniile lobare inferioare
+}
+
+Despre complicațiile pneumoniilor este adevarată următoarea afirmație:{
+~%33.99999%Apar frecvent la adulți și tineri
+~%33.99999%Cele mai frecvente complicații sunt pleurezia, abcesul pulmonar și cancerul bronhopulmonar
+~%33.99999%Pneumonia cronică poate fi o complicație și se caracterizează printr-o evoluție rapidă
+~Apar mai frecvent la pacienții imunodeprimați, la copii și la vârstnici
+~Modificările de fibroză apărute prin cronicizarea pneumoniei se caracterizează prin tracționarea hilului pulmonar și a mediastinului, cu lărgirea spațiilor intercostale
+}
+
+Din tabloul clinic al pacienților cu pneumonie pot face parte următoarele semne și simptome:{
+~%24.99999%Febra
+~%24.99999%Frisoane
+~%24.99999%Dispnee
+~%24.99999%Durere pleurală
+~Cianoza
+}
+
+Din punct de vedere radiologic, bronhopneumonia se caracterizează prin următoarele:{
+~%9.99999%Modificările radiologice sunt polimorfe, existând o afectare bronho-alveolară
+~%9.99999%Opacitățile sunt multiple, neregulate, rotunde/ovalare, de dimensiuni diferite
+~%9.99999%Simptomele au un debut insidios, cu stare generală alterată
+~%9.99999%Complicațiile bronhopneumoniei sunt cel mai frecvent abcesul pulmonar, pleureziile purulente și dilatațiile bronșice
+~%9.99999%Localizarea opacităților este cel mai frecvent perihilară și bazală, dar există o variabilitate mare a aspectului radiologic de la un examen la altul
+}
+
+Diagnosticul diferențial al emfizemului bulos se poate face radiologic cu pneumotoraxul. Care dintre următoarele caracteristici înclină balanța spre diagnosticul de emfizem?{
+~Imaginea devine mai evidentă în expir
+~%99.99999%Imaginile de bule sunt mai mari în inspir decât în expir
+~În interiorul imaginii cu transparență accentuată se pot evidenția imagini vasculare
+~În interiorul imaginii cu transparență accentuată nu se pot evidenția imagini vasculare
+~Aerul din bule nu are tendința la resorbție
+}
+
+Alegeți afirmațiile corecte despre supurațiile bronhopulmonare:{
+~%99.99999%Pot afecta un parenchim pulmonar indemn (supurații pulmonare primare) sau complica o afecțiune pulmonară preexistentă (supurații pulmonare secundare)
+~Se împart în pneumopatii supurate și bronșiectazii
+~Pot fi cauzate de stafilococ, pneumococ, streptococ
+~În gangrena pulmonară, debutul simptomelor este acut, septic, de o gravitate deosebita
+~Modificările care apar în bronșiectazii au caracter reversibil
+}
+
+Selectați afirmația falsă referitoare la chistul hidatic complicat:{
+~%99.99999%Radiologic se prezintă ca o opacitate rotundă-ovalară, omogenă, de intensitate medie
+~În chistul complicat se produce o ruptură a acestuia, cu producerea unui fistule mari și apariția vomicii cu lichid
+~Se poate observa pe radiografie semnul semilunei aerice
+~Semnul dublului arc apare în cazul rupturii complete de chist, când membrana se află sub nivelul lichidului
+~Semnul membranei încarcerate se referă la observarea unei membrane neregulate pe fundul cavității complet evacuate
+}
+
+Despre evoluția chistului hidatic sunt adevărate următoarele afirmații:{
+~%99.99999%Se poate vindeca prin fibrozare
+~Se poate calcifica
+~Chistul hidatic se vindecă în condițiile infectării cavității
+~Pentru a se vindeca, chistul hidatic trebuie să fie evacuat complet
+~Fistula bronșică trebuie să fie în punctul decliv al chistului pentru a facilita evacuarea
+}
+
+Selectați afirmația falsă despre aspergiloza pulmonară:{
+~%99.99999%Este cauzată de contaminarea cu fungi din specia Aspergillus
+~Localizări comune reprezintă sediul pulmonar, cerebral, renal și hepatic
+~Aspergilomul este cea mai frecventă formă, grefându-se pe cavitățile pulmonare preexistente (ex. cavități tuberculoase, cancer excavat, bule de emfizem)
+~În interiorul cavităților apar opacități rotunde, ovalare, de intensitate medie, omogene, numite mase miceliene
+~Apare frecvent la indivizii sănătoși
+}
+
+Care dintre următoarele pneumoconioze produse de pulberi anorganice sunt sclerogene?{
+~%99.99999%Baritoza
+~Sideroza
+~Silicoza
+~Antracoza
+~Azbestoza
+}
+
+Despre silicoză sunt adevărate:{
+~%99.99999%Tabloul clinic are un debut acut, cu dispnee, tuse, cianoză, dureri toracice
+~Din punct de vedere radiologic, stadiul III se caracterizează prin opacități masive, cu caracter pseudotumoral, localizate într-un singur câmp pulmonar
+~Diagnosticul diferențial se poate face cu staza pulmonară, sarcoidoza sau TBC miliar
+~La nivel pleural apar modificări de tip „geam mat”
+~Pe radiografie se pot observa opacități lineare sau nodulare, cu sau fără afectarea ganglionilor limfatici, cu deplasarea traheei în cazul fibrozării și elemente de afectare pleurală 
+}
+
+Complexul primar Ranke:{
+~%99.99999%Este format din afectul primar Ghon, adenopatie și limfangită
+~Este caracteristic tuberculozei pulmonare secundare (ftiziei)
+~La locul inoculării apare o inflamație nespecifică, urmată de răspândirea infecției pe cale limfatică și ulterior adenopatie
+~Complexul primar este un focar pneumonic limitat, sub formă de opacitate unică, localizata în 2/3 inferioare ale ariilor pulmonare
+~Evoluția constă în vindecare sau în apariția complicațiilor locale sau la distanță
+}
+
+Complicațiile locale ale complexului primar Ranke pot fi:{
+~%99.99999%Fistule adenobronșice
+~Atelectazia
+~Caverna primară 
+~Bronhopneumonia tuberculoasă
+~Diseminările în os, rinichi, ficat 
+}
+
+Este fals despre caverna primară:{
+~%99.99999%Cavernele elastice au perete gros, cu nivel lichidian
+~Simultan cu apariția cavernei apare ftizia
+~Este o opacitate nodulară, de intensitate mare, bine delimitată
+~Cavernele pot fi recente, caz în care conturul este sterș, fiind aflate într-o leziune exudativă
+~Cavernele deterjate au un perete subțire, chistic-like
+}
+
+Tuberculoza miliară:{
+~%99.99999%Este o complicație a complexului primar Ranke, reprezintă diseminarea pe care hematogenă a bacilului Koch
+~În faza incipientă este caracterizată radiologic prin opacități reticulare, discrete, în manta
+~Odată cu evoluția bolii apar opacității nodulare, miliare (de 2-3 mm), de intensitate subcostală/costală și contur șters, răspândite simetric și bilateral
+~Diagnosticul diferențial se poate face cu carcinoza miliară, limfogranulomatoza malignă sau pneumoconiozele
+~Se asociază cu prezența nodulilor Simon
+}
+
+Este adevărat despre tuberculoza secundară:{
+~%99.99999%Localizarea poate fi oriunde in parenchimul pulmonar
+~Nu se asociază cu adenopatie
+~Evoluția este spre vindecare completă, cu calcificare și fibrozare
+~Poate evolua malign cu diseminare bronhogenă sau hematogenă
+~Reprezintă reactivarea focarelor stabilizate ale tuberculozei primare 
+}
+
+Formele clinice de ftizie sunt reprezentate de:{
+~%99.99999%Infiltratele precoce 
+~Infiltratul nodular apical precoce Assman
+~Infiltratul periferic Raedeker
+~Infiltratul pneumonic segmentar
+~Infiltratul precoce perihilar
+}
+
+Este adevărat despre formele evolutive de ftizie:{
+~%99.99999%Tuberculoza în focar nodular e reprezentată de o formă specială cu leziuni nodulare mici de origine postprimară sau secundară
+~Tuberculoza cazeoasă circumscrisă apare odată cu formarea cazeoamelor 
+~În ftizia cronică evolutivă pot apărea imagini de ulcerații
+~Leziunile din tuberculoza fibroasă au caracter reversibil
+~În tuberculoza fibroasă pot apărea modificări retractile cu tracționarea hilului și a mediastinului
+}
+
+Este fals despre fibroza pulmonară:{
+~%99.99999%Fibroza pulmonară mutilantă se mai numește și scleroză pulmonară
+~Procesul de fibroză are ca punct de plecare interstițiul pulmonar
+~Aspectul radiologic caracteristic fibrozei pulmonare mutilante este dat de opacități cu formă stelată și prelungiri lineare sau în bandă, cu retracția structurilor din jur
+~Fibrotoraxul apare când un teritoriu mic de plămân este fibrozat
+~Fibroza pulmonară sistematizată apare dupa procese predominent proliferative (ex. iradiere, inhalare pulberi, sarcoidoza)
+}
+
+Dintre tumorile pulmonare maligne fac parte:{
+~%99.99999%Limfomul pulmonar
+~Carcinomul cu celule mici
+~Leiomiomul
+~Adenocarcinomul
+~Adenomul
+}
+
+Caracterele de benignitate ale unei tumori pulmonare sunt:{
+~%99.99999%Deplasează elementele anatomice din jur, modificându-le structura
+~Prezintă simptomatologie clinică proprie, mai ales tulburări funcționale prin efect compresiv
+~Nu dau adenopatii hilare, nu metastazează, nu recidivează
+~Radiologic, se prezintă ca opacități rotund-ovalare, cu contur net 
+~Au o evoluție rapidă și infiltrează țesuturile din jur
+}
+
+Despre tumorile pulmonare benigne este adevărat:{
+~%99.99999%Adenomul bronșic evoluează frecvent spre malignizare, fiind indicat tratamentul chirurgical după confirmarea diagnosticului prin biopsie
+~Hamartomul este una dintre cele mai frecvente tumori benigne, caracterizată prin compoziția sa mixtă – țesut cartilaginos, fibros, adipos, muscular și elemente epiteliale
+~Tumora Pancoast-Tobias are localizare la nivelul vârfului pulmonar și se asociază frecvent cu un sindrom nervos și cu sindromul Claud-Bernard-Horner
+~Diagnosticul cert de lipom se pune pe radiografie, care evidențiază o imagine nodulară opacă, net delimitată, de intensitate subcostală
+~Cele mai frecvente complicații ale tumorilor benigne sunt hiperinflația și atelectazia pulmonară
+}
+
+Despre determinările secundare este fals:{
+~%99.99999%Radiologic se prezintă ca opacități nodulare, de dimensiuni variabile, de regulă bine delimitate, omogene, iodofile postcontrast, uneori cavitare
+~Metastazele se produc prin desprinderea unor celule sau a unor embolii carcinomatoase dintr-o tumoră malignă, cu diseminarea lor pe cale hematogenă sau limfatică
+~Determinările secundare se pot afla și la nivel renal, mamar, hepatic 
+~Metastazarea de produce pe calea venei cave, a venei porte sau a venelor pulmonare
+~Sunt reprezentate de carcinomul bronhoalveolar, carcinomul cu celele alveolare și carcinomul celuloalveolar
+}
+
+În atelectazia pulmonară apar următoarele fenomene, cu excepția:{
+~%99.99999%Obstrucția bronșică care împiedică comunicarea între trahee și alveole, cu resorbția aerului alveolar
+~Compresia parenchimului pulmonar de către anumite procese patologice voluminoase – revărasate pleurale, adenopatii, anevrisme de aortă, tumori
+~Reducerea întinderii parenchimului pulmonar în cazul modificărilor rectractile din fibroza pulmonară
+~Teritoriul pulmonar are și funcția ventilatorie și funcția circulatorie suprimate
+~Lărgirea spațiilor intercostale pe partea afectată, tracționarea traheei și a hilului pulmonar
+}
+
+Diagnosticul prezumtiv al unui pacient care se prezintă la camera de gardă cu durere ce limitează mișcările respiratorii, tuse seacă, iar la examenul clinic prezintă matitate lemnoasă în hemicâmpul pulmonar drept este:{
+~%99.99999%Tumoră pulmonară malignă
+~Tuberculoză pulmonară
+~Revărsat pleural
+~Pneumonie
+~Chist hidatic
+}
+
+Despre aspectul radiologic al revărsatelor pleurale este adevărat:{
+~%99.99999%Devine vizibil radiologic în cantități mai mici de 200 ml
+~Când este în cantitate mare opacifiaza întreg hemitoracele
+~Revărsatul pleural în cantitate medie este caracterizat de curba Damoiseau (opacitate în menisc)
+~Nu este dependent de poziția pacientului
+~Deplasează organele mediastinale daca este în cantitate mică 
+}
+
+Despre pleurezia închistată este adevărat:{
+~%99.99999%Se datorează aderențelor de la nivel pleural în urma unor inflamații, hemotorax sau piotorax
+~Radiologic se caracterizează prin apariția unor opacități cu margini convexe, omogene, net delimitate, de intensitate mare
+~Localizările cele mai frecvente sunt la nivelul scizurilor orizontală și oblică
+~În ortostatism se poate decela curba Damoiseau pe radiografie
+~Se poate observa coborârea hemidiafragmului homolateral
+}
+
+Sunt tumori pleurale maligne:{
+~%99.99999%Tumora amiloidă
+~Mezoteliomul
+~Limfomul pulmonar
+~Adenocarcinomul 
+~Sarcomul pulmonar
+}
+
+Despre calcificările pleurale se poate afirma, cu excepția:{
+~%99.99999%Pot apărea în urma unui revărsat pleural (empiem sau hemotorax)
+~Pot fi unilaterale, în urma unui fibrotorax sau a azbestozei
+~Radiologic se caracterizează prin prezența de placarde neomogene, de intensitate calcară, cu forma patrulateră, triunghiulară sau neregulată
+~Radiologic se caracterizează prin prezența unor placarde omogene, de intensitate mică
+~Pot fi bilaterale, după pneumoconioze 
+}
+
+În funcție de modul de constituire, pneumotoraxul poate fi artificial, spontan sau traumatic. Care dintre următoarele caracteristici definesc pneumotoraxul spontan?{
+~%99.99999%Introducerea aerului în cavitatea pleurală în tratamentul TBC
+~Ruptura unei bule de aer în cazul presiuni atmosferice ridicate
+~Fracturarea coastelor cu înțeparea pleurei viscerale
+~Plăgi penetrante ale peretelui toracic
+~Ruptura traheobronșică sau esofagiană după manevre terapeutice
+}
+
+În funcție de legătura dintre cavitatea pleurală cu aerul exterior, pneumotoraxul se clasifică în:{
+~%99.99999%Pneumotorax total, când plamănul e retractat spre hil
+~Pneumotorax cu dislocarea lobilor, când aerul este insinuat între lobi 
+~Pneumotorax cu supapă, când orificiul prin care a pătruns aerul se închide
+~Pneumotorax deschis, când orificiul este larg, penetrant și permite circulația liberă a aerului în inspir și expir
+~Pneumotorax închis, când aerul pătrunde în inspir, cu creșterea presiunii intracavitare, deplasarea mediastinului și producerea unor tulburări cardiovasculare
+}
+
+Hidropneumotoraxul reprezintă o complicație a pneumotoraxului simplu cu lichid și este caracterizat radiologic prin:{
+~%99.99999%Imagine hidro-aerică 
+~Un nivel orizontal între transparența aerică superioară și opacitatea inferioară
+~Prezența semnului Bernou
+~Forma încapsulată mono- sau multiloculară, când unele „pungi” prezintă nivele, altele nu
+~Zonă de transparență crescută cu absența desenului pulmonar
+}
+
+Patologia diafragmatică poate fi clasificată în:{
+~%99.99999%Anomalii de poziție ale diafragmului 
+~Herniile diafragmatice traumatice
+~Herniile diafragmatice prin hiatusul esofagian
+~Herniile diafragmatice prin fanta Larrey 
+~Herniile diafragmatice prin hiatusul pleuroperitoneal
+}
+
+Paralizia diafragmatică:{
+~%99.99999%Diafragmul este aplatizat, are o poziție joasă și apare în cazul hiperinflației pulmonare
+~Rezultă din întreruperea impulsurilor nervoase prin nervul frenic
+~Diafragmul este ascensionat, cu mișcări diminuate, absente sau paradoxale
+~Apare cel mai frecvent în contexul unei invazii de neoplasm bronhopulmonar
+~Este caracteristic aspectul regulat, fin, „tras cu compasul”
+}
+
+Este adevărat despre herniile diafragmatice prin fanta Larrey:{
+~%99.99999%Mai sunt cunoscute ca hernii prin hiatusul pleuroperitoneal
+~Sunt exclusiv congenitale
+~Este o hernie cu sac, al cărui conținut e reprezentat de organele abdominale
+~Defectul apare mai ales pe partea stângă
+~Atunci când apar simptome, acestea sunt predominant digestive și pot duce până la ocluzie intestinală
+}
+
+Herniile diafragmatice prin orificiul Bochdalek:{
+~%99.99999%În majoritatea cazurilor nu prezintă sac herniar
+~Spre deosebire de herniile prin fanta Larrey, defectul apare mai ales pe partea stângă
+~Dacă defectul este larg, pacientul poate prezenta insuficiență cardiovasculară, datorită fenomenelor de compresie asupra cordului și plamănilor
+~Etiologia cea mai frecventă este traumatică
+~Apare în cazul creșterii exagerate a presiunii intraabdominale (obezitate, constipație cronică, sarcină)
+}
+
+Selectați asocierile corecte dintre etajele mediastinului și formațiunile conținute în fiecare:{
+~%99.99999%Etajul superior: traheea, trunchiul brahiocefalic stâng și drept, VCS
+~Etajul superior: traheea, trunchiul brahiocefalic stâng și drept
+~Etajul mijlociu: VCS, aorta ascendentă, artera pulmonară, ventriculul stâng
+~Etajul inferior: atriul drept, ventriculul stâng, urechiușa stângă
+~Etajul inferior: atriul drept, ventriculul stâng
+}
+
+Care dintre următoarele asocieri referitoare la compartimentele mediastinului sunt false?{
+~%99.99999%Compartimentul anterior este delimitat de stern și pericard, și conține aorta și trunchiul brahiocefalic
+~Compartimentul mijlociu este situat între trahee și cord și conține pe lângă cele două formațiuni, vasele mari și ganglioni limfatici
+~Compartimentul posterior este situat în spatele cordului și traheei și conține esofagul, ductul toracic
+~Crosa aortică și aorta descendentă sunt situate în compartimentul posterior
+~În compartimentul anterior se găsește și glanda tiroidă
+}
+
+Despre emfizemul mediastinal este adevărat, cu excepția:{
+~%99.99999%De obicei este secundar unui emfizem interstițial
+~Diagnosticul diferențial trebuie făcut cu pneumopericardul
+~Alte etiologii posibile sunt perforația de esofag, secundar unor manevre terapeutice, traumatisme sau mediastinite
+~Aspectul radiologic caracteristic este dat de lărgirea umbrei mediastinale și prezența unei opacități lamelare la 2-3 mm distanță de cord
+~Este asociat frecvent cu emfizemul subcutanat sau cu hidropneumotoraxul
+}
+
+Selectați enumerația care conține doar tumori de tip ganglionar și adenopatii:{
+~%99.99999%Sarcom, limfom, sarcoidoza, tumori timice 
+~Limfom Non-Hodkgin, tumori neurogene, tumori tiroidiene
+~Adenopatii de sistem (Hodgkin), adenopatii metastatice, sarcoame
+~Chist bronhogenic, sarcom mediastinal, limfom Hodgkin, sarcom mezenchimal
+~Abces vertebral, anevrism de aortă, sarcoidoză
+}
+
+Stadiul III de sarcoidoză este caracterizat de:{
+~%99.99999%Adenopatii unilaterale voluminoase
+~Adenopatii bilaterale voluminoase
+~Infiltrate pulmonare fără adenopatii
+~Adenopatii cu infiltrat pulmonar
+~Fibroză ireversibilă și bule
+}
+
+Este adevărat despre limfom:{
+~%99.99999%Prezintă două forme, cu localizare mediastinală sau mediastino-pulmonară
+~Radiologic se prezintă ca adenopatie uni sau bilaterală, asimetrică, predominant hilară, bine conturată, omogenă, rotundă/ovalară/policiclică
+~Evoluția limfomului Non-Hodgkin este contiguă din stație în stație ganglionară
+~Se complică frecvent cu pleurezie bilaterală
+~Limfomul este o boală sistemică, granulomatoasă, cu localizare multiviscerală
+}
+
+În evaluarea radiologică a cordului urmărim:{
+~%99.99999%Indicele cardio-toracic care trebuie să fie >0,5
+~Indicele cardio-toracic care trebuie să fie <0,5
+~Arcul inferior stâng care nu trebuie să depășească linia medio-claviculară
+~Convexitatea arcului mijlociu drept în mărirea ventriculului drept
+~Convexitatea arcului mijlociu stâng în mărirea atriului stâng (urechiușa stângă)
+}
+
+Expresia radiologică a stazei pulmonare și a hipertensiunii venoase pulmonare este dată de, cu excepția:{
+~%99.99999%Liniile Kerley A – opacități fine, mai lungi, drepte, care traduc edemul de la nivelul septurilor interalveolare
+~Liniile Kerley B – opacități liniare, orizontale, de 1-2 cm în sinusul costo-diafragmatic care traduc îngroșarea interstițiului pulmonar
+~Liniile Kerley C – aspect reticular în câmpurile pulmonare mijlocii și inferioare
+~Transparență anormală a câmpurilor pulmonare și dispariția imaginilor vasculare la periferie, prin reducerea calibrului arterelor și venelor
+~Plămânul apare hipovascularizat cu artere pulmonare mari la emergență și aspect de „amputare” sub hil
+}
+
+Dintre următoarele, selectați malformațiile cardiace congenitale necianogene:{
+~%99.99999%Defectul septal atrial
+~Tetralogia Fallot
+~Coarctația de aortă
+~Canalul atrio-ventricular comun complet
+~Boala Ebstein
+}
+
+În tetralogia Fallot, copilul prezintă tegumente și mucoase cianotice. Care dintre următoarele malformații congenitale alcătuiesc tetralogia?{
+~%99.99999%Defect septal atrial
+~Hipertrofia ventriculului drept
+~Aorta dextropoziționată
+~Stenoza infundibulară
+~Defect de sept ventricular
+}
+
+Alegeți malformațiile cardiace congenitale cianogene complexe:{
+~%99.99999%Transpoziția de vase mari
+~Trunchi arterial comun
+~Atrezie pulmonară cu defect de sept ventricular
+~Tetralogia Fallot
+~Arc aortic întrerupt
+}
+
+Radiodiagnosticul unui pacient care prezintă un arc mijlociu stâng bombat, un dublu contur al marginii inferioare drepte, cu creșterea unghiului bifurcației traheale și mărirea diametrului transvers este de:{
+~%99.99999%Boală valvulară aortică
+~Boală valvulară mitrală
+~Boală valvulară tricuspidiană
+~Insuficiență cardiacă
+~Anevrism ventricular
+}
+
+Aspectul radiologic al insuficienței cardiace este dat de, cu excepția:{
+~%99.99999%Cardiomegalie (creșterea indicelui cardio-toracic)
+~Intensificarea desenului vascular pulmonar
+~Apariția liniilor Kerley
+~Ascensionarea diafragmului
+~Prezența edemului pulmonar și a pleureziilor
+}
+
+Criteriile de apreciere radiologică în afecțiunile miocardului sunt:{
+~%99.99999%Cardiomegalie globală
+~Aspectul general al cordului este flasc, cu baza mărită pe diafragm
+~Conturul arcurilor este șters
+~Adâncirea golfului cardiac
+~Prezența unui anevrism ventricular confirmă patologia miocardică
+}
+
+Este adevărat despre mixom:{
+~%99.99999%Este o tumoră cardiacă malignă
+~Sediul cel mai frecvent este în atriu
+~Invadează din aproape în aproape pericardul și miocardul
+~Este o tumoră mare, pediculată, care blochează intermitent circulația transvalvulară
+~Poate determina apariția unei pericardite hemoragice când se instalează în pericard
+}
+
+Este adevărat despre metodele de investigație ale aparatului urinar:{
+~%99.99999%Radiografia renală simplă folosește substanță de constrast și oferă date tehnice asupra parametrilor de poziționare, expunere, centrare și developare
+~Pentru evaluarea rinichilor și a căilor urinare se administrează intravenos substanță de contrast și se vizualizează cu ajutorul radiațiilor X, investigație numită scintigrafie renală
+~Urografia este indicată în cazul unui pacient care prezintă hematurie/piurie/proteinurie/colică renală
+~La radiografia renală simplă se pot evidenția calculi renali sau alte calcifieri abdominale
+~Computer-tomografia este investigația de elecție pentru evidențierea litiazei urinare
+}
+
+Despre urografie se poate afirma:{
+~%99.99999%Se evită realizarea expunerilor succesive în inspir profund, deoarece apar sinuozități ureterale
+~Prima expunere se face la 10-20 secunde după injectarea substanței de contrast și surprinde faza corticală a nefrogramei 
+~A doua expunere se face la 5 minute după injectarea substanței de contrast și evaluează funcția secretorie renală
+~Următoarea expunere efectuată la 12-15 minute după injectare evaluează reziduul postmicțional
+~Expunerile tardive se fac după 48 ore de la injectare și se execută atunci când nefrograma este prezentă, dar pielograma nu se vizualizează
+}
+
+Care este diagnosticul cel mai probabil al unui pacient care acuză dureri în flancuri și se prezintă cu febră și disurie, iar la urografie se observă o nefrogramă de intensitate redusă, cu funcție renală diminuată și aparatul pielocaliceal slab opacifiat, cu tijele caliceale alungite și subțiate?{
+~%99.99999%Abces renal
+~Sindrom de obstrucție urinară
+~Litiază urinară
+~Pielonefrită acută
+~Cistită
+}
+
+Litiaza urinară se caracterizează prin:{
+~%99.99999%Prezența unor calcifieri la nivelul sistemului colector
+~Formele clinice variază de la apariția colicii renale, la insuficiență renală și forme clinice latente
+~Este un proces inflamator al parenchimului renal 
+~Calculii sunt formați dintr-un complex de cristale anorganice depuse pe o matrice organică
+~Investigația paraclinică de elecție este urografia 
+}
+
+Este adevărat despre boala chistică renală:{
+~%99.99999%Chistul renal apare ca un proces inflamator al parenchimului renal, cu zone de necroză și lichefierea conținutului
+~Simptomatologia caracteristică este reprezentată de febră, frisoane, dureri în flancuri, greață și vărsături
+~Cel mai frecvent, chisturile renale sunt situate subcapsular
+~Chistul renal este o formațiune rotundă, cu perete propriu și conținut lichidian, cu dimensiuni de la câțiva mm până la 10 cm
+~Boala chistică renală se poate manifesta printr-un chist renal simplu, sau un rinichi multichistic/polichistic
+}
+
+Rinichiul polichistic:{
+~%99.99999%Boala debutează sub vârsta de 30 de ani, iar numărul chistelor crește pe măsura avansării în vârstă
+~Diferența dintre chistele renale simple și rinichiul polichistic constă în imposibilitatea numărării acestora în cazul unui rinichi polichistic
+~Cea mai sensibilă metodă de depistare a rinichiului polichistic este computer tomografia, care evidențiază imagini hipodense, cu dimensiuni variabile, structură omogenă și formă rotund-ovalară
+~Este una din cauzele obișnuite de tumori abdominale la copil
+~Radiologic se observă multiple chiste în ciorchine, cu parenchim foarte puțin evidențiat sau absent
+}
+
+Tumorile renale maligne sunt reprezentate de:{
+~%99.99999%Oncocitomul
+~Adenomul renal
+~Tumora Wilms
+~Uroteliomul
+~Angiomiolipomul
+}
+
+Malformațiile sistemului urinar se clasifică în:{
+~%99.99999%Anomalii de număr – agenezie renală unilaterală, rinichi supranumerar
+~Anomalii de dimensiune – hipertrofia renală, aplazia renală, agenezia renală
+~Anomalii de poziție și rotație – malrotație, ectopie renală, rinichi în potcoavă
+~Anomalii de structură a parenchimului renal – duplicarea aparatului colector, sindrom de joncțiune pielo-ureterală
+~Anomalii ale ureterului – megaureter congenital, ureterul retrocav, ureterocelul
+}
+
+Explorarea imagistică a sistemului osos se face cel mai frecvent prin: {
+~%99.99999%CT
+~IRM
+~Scintigrafia osoasă
+~Radiografia – principalul mod
+~Ecografia
+}
+
+Modificările radiologice elementare osoase de natură distructivă sunt:{
+~%99.99999%Osteoporoza și demineralizarea
+~Osteonecroza
+~Osteoscleroza
+~Distrofia osoasă
+~Osteoliza
+}
+
+Atrofia prin presiune a unui segment osos reprezintă:{
+~%99.99999%Un proces de distrucție masivă a țesutului osos, iar radiologic osul afectat dispare complet
+~Cel mai frecvent are o etiologie traumatică
+~Este caracteristică formațiunilor chistice, otitelor cronice sau neurinomului de acustic
+~Moartea unui teritoriu de țesut osos în urma întreruperii fluxului nutritiv spre acesta
+~Este un proces de resorbție prin demineralizare determinat de presiunea exercitată la nivel osos de către o formațiune patologică 
+}
+
+Este adevărat despre periostoză:{
+~%99.99999%Radiologic se poate observa o opacitate liniară fină ce dublează conturul osului, de care este separat printr-o zonă de transparență
+~Reprezintă un dezechilibru cantitativ și apare când procesele de resorbție și osteogeneză nu respectă structura anatomică normală
+~Pe radiografie se observă apariția condensării osoase, țesutul osos e mai opac, cu travee îngroșate, areolele spongioasei diminuate și compacta îngroșată
+~Este o modificare radiologică elementară reconstructivă
+~Este o modificare de formă și mărime a osului, prin apoziții periostale
+}
+
+Alegeți asocierea corectă:{
+~%99.99999%Oedostoza – îngroșarea oaselor prin apoziții periostale (în maladia Paget, osteomielita)
+~Exostoza – excrescență osoasă în regiunea metafizară cu structură similară cu segmentul osos din care se dezvoltă
+~Hiperostoza – exagerare în lungime și grosime
+~Scoliostoza – nu este păstrată proporția între lungimea și grosimea oaselor
+~Discondroplazia – deformarea osului (în coxa vara de exemplu)
+}
+
+Aspectul radiologic în cazul unei fracturi poate fi, cu excepția:{
+~%99.99999%În primele 21 de zile de la producerea fracturii, apar contururi osoase șterse, cu demineralizare în focarul de fractură
+~După 21 de zile începe formarea calusului osos, moment în care radiologic putem observa un aspect de „fum de țigară” – linia de fractură este mai puțin clară
+~Dispariția traiectului de fractură este datorată creșterii densității calusului, care formează o opacitate fusiformă ce depășește corticala osoasă
+~Vindecarea per primam se referă la vindecarea unei fracturi fără calus, în cazul în care reducerea fracturii a adus cele două fragmente osoase în contact perfect
+~Fractura „în lemn verde” apare în general la vârstnici și este un tip de fractură incompletă
+}
+
+Caracterele de benignitate ale unei tumori osoase sunt:{
+~%99.99999%Conturul neregulat
+~Periostoza perpendiculară pe axul osului
+~Zonă net delimitată, de obicei printr-o linie fină de scleroză
+~Osteogeneză cu zone opace
+~Absența semnelor de invazie
+}
+
+Despre condrom se poate afirma, cu excepția:{
+~%99.99999%Este o tumoră osoasă benignă de origine cartilaginoasă
+~Este de două tipuri: encondrom – când se dezvoltă spre cavitatea medulară, și eccondrom – tumoră situată cortical sau subperiostal
+~Este o formațiune osoasă pediculată care proemină din planul scheletului 
+~Localizarea predilectă este la nivelul oaselor lungi (tibie, femur)
+~Diagnosticul diferențial al encondromului se poate face cu condroblastomul și fibromul condromixoid
+}
+
+Elementele diferențiale dintre osteomul osteoid și osteoblastom sunt:{
+~%99.99999%În cazul osteoblastomului, pe radiografie se poate observa o zonă centrală de intensitate redusă, cu dimensiuni între 2 și 12 cm, numită nidus
+~Apariția reacției periostale este caracteristică osteomului osteoid
+~Fibromul osteogenic apare radiologic ca o zonă de intensitate redusă, între 2 și 12 cm, omogenă sau neomogenă, ce cuprinde toată formațiunea situată în metafiză sau diafiză
+~Osteomul osteoid în evoluție poate sparge corticala spre țesuturile moi
+~Nidusul reprezintă o zonă de osteoliză manșonată de o reacție perifocală condensată cu aspect concentric și este caracteristică osteomului osteoid
+}
+
+Sunt tumori osoase benigne de tip osteolitic următoarele:{
+~%99.99999%Tumora cu mieloplaxe
+~Chistul neosteogenic
+~Mielomul
+~Osteomul osteoid
+~Chistul solitar
+}
+
+Despre osteosarcom este fals:{
+~%99.99999%Forma osteolitică asociază o reacție periostală importantă
+~Este o tumoră unică, cu creștere rapidă, situată la nivel metafizar
+~Prezintă caractere de malignitate: întrerupe corticala, invadează structurile de vecinătate, are un contur șters, neregulat
+~Se localizează frecvent pe oasele bazinului, omoplat, humerus sau femur
+~Osteosarcomul parostal este o formă rară de osteosarcom, localizat cu predilecție pe fața posterioară a metafizei distale a femurului
+}
+
+Selectați afirmațiile false referitoare la sarcomul Ewing:{
+~%99.99999%Este o tumoră malignă hematopoietică ce apare la copiii cu vârste între 5 și 14 ani
+~Sediul de predilecție este diafiza oaselor lungi ale membrelor
+~Diagnosticul diferențial se poate face cu osteomielita acută
+~Este o tumoră radiorezistentă
+~Tumora are origine în canalul medular și invadează țesuturile moi
+}
+
+Tumorile osoase metastatice:{
+~%99.99999%Sunt cele mai frecvente tumori osoase
+~Metastazele osteolitice sunt secundare unui neoplasm renal, mamar sau tiroidian cel mai frecvent
+~Metastazele osteocondensante apar ca multiple zone de osteoliză, fără reacții periostale
+~Metastazele pot întrerupe conturul osos, fără o extensie în părțile moi adiacente
+~Afectează doar scheletul axial
+}
+
+Explorarea radiologică a tubului digestiv presupune:{
+~%99.99999%Orice examen radiologic al tubului digestiv începe cu explorarea abdomenului cu substanță de contrast radioopacă
+~Examenul radiologic cu substanță de contrast aduce informații despre starea scheletului și opacitățile renale, hepatică și splenică
+~Pentru evidențierea pneumoperitoneului și a nivelelor hidro-aerice este suficientă o radiografie abdominală fără substanță de contrast
+~Prin efectuarea unei radiografii abdominale pe gol se pune în evidență lumenul tubului digestiv
+~Substanța de contrast cel mai frecvent folosită este o soluție iodată, cu excepția suspiciunii unei fistule a peretelui digestiv sau a unui sindrom ocluziv, când se folosește sulfatul de bariu
+}
+
+Modificările funcționale ale tubului digestiv ce pot fi decelate la examenul radiologic sunt:{
+~%99.99999%Modificări de tonus
+~Modificări ale reliefului mucoasei
+~Modificări de mobilitate
+~Modficări ale tranzitului 
+~Modificări ale secreției
+}
+
+Referitor la modificările de tonus ale segmentelor tubului digestiv, selectați definiția corectă:{
+~%99.99999%Hipertonia este caracterizată prin creșterea calibrului segmentului afectat, asociată cu alungirea lui, cu evacuarea sa rapidă, urmată de distensia segmentului imediat subiacent îngustării
+~Akinezia reprezintă starea de epuizare totală a capacității contractile a muscularei segmentului de tub digestiv afectat, cu absența undelor peristaltice 
+~Hiperkinezia se caracterizează prin creșterea frecvenței și amplitudinii undelor peristaltice și se poate asocia cu hipertonia
+~Spasmul reprezintă o alterare funcțională a unui sfincter sau a fibrelor circulare dintr-un segment al tubului digestiv, descrisă ca o îngustare progresivă, axială a segmentului, cu suprimarea pasajului substanței de contrast la acest nivel
+~Modificările de tonus cuprind modificările de calibru și de kinetică ale tubului digestiv
+}
+
+Este fals despre modificările de secreție ale segmentelor tubului digestiv:{
+~%99.99999%Reprezintă modificări morfologice și se referă la amplificarea, reducerea sau lipsa totală a peristaltismului unui segment sau organ tubular
+~Se consideră normală absența vizualizării lichidului gastric la nivelul intestinului subțire și gros
+~În cazul hipersecreției, apare o opacifiere neomogenă a lumenului digestiv, iar sulfatul de bariu capătă un aspect de „fulgi de zăpadă” la nivelul stomacului 
+~Modificările de secreție cuprind accelerarea și întârzierea evacuării unui segment de tub digestiv, fiind frecvent asociate cu modificări de tonus și peristaltică
+~În hipersecreție, la nivelul intestinului subțire apare o opacifiere neomogenă a lumenului cu ștergerea reliefului mucoasei, presistența petelor de substanță de contrast, neregulate, neavând legătura cu relieful mucoasei, și care se mențin după evacuare
+}
+
+Mecanismele de producere a modificărilor de poziție a segmentelor de tub digestiv pot fi:{
+~%99.99999%Prin ascensiune – cascada gastrică, care apare prin alungirea unui ligament gastrofrenic cu deplasarea stomacului în sens caudal
+~Prin împingere – hernia gastrică transhiatală, care apare prin lărgirea hiatusului diafragmatic cu deplasarea stomacului în sens cranial
+~Prin tracțiune – modificarea poziției unui segment datorită unor procese fibroase, retractile ale mijloacelor de susținere ale tubului digestiv
+~Prin ptoză – deplasarea unei porțiuni a tubului digestiv în jurul axului său, datorită afectării mijloacelor de susținere sau a modificărilor de dinamică și structură a segmentului 
+~Prin torsiune – fenomen denumit și volvulus, când apar modificări de formă la nivelul organului și a reliefului mucoasei
+}
+
+Este adevărat despre modificările de dimensiune a segmentului de tub digestiv:{
+~%99.99999%Mega-segmentul apare prin creșterea lungimii acestuia, devenind sinuos, cu contur regulat, bine precizat, fără modificări de mucoasă, neomogen
+~Dolico-segmentul apare prin creșterea calibrului acestuia, devenind dilatat, cu contur regulat, bine precizat și se poate asocia cu hipotonie, stază și hipokinezie
+~Stenoza reprezintă o reducere a diametrului transvers al lumenului, fiind o modificare de calibru
+~Brahi-segmentul apare prin reducerea calibrului segmenului, fără modificări ale reliefului mucoasei și fără modificări funcționale
+~Schirul gastric este o formă de tumoră care asociază atât reducerea lungimii, cât și reducerea calibrului stomacului 
+}
+
+Stenozele benigne au următoarele caracteristici care le diferențiază de cele maligne:{
+~%99.99999%Se extind pe o lungime mică
+~Sunt unice 
+~Pliurile nu sunt niciodata întrerupte
+~Modificarea de calibru se face brusc
+~Sunt axiale
+}
+
+Diverticulii de pulsiune sunt defecte ale tunicii musculare care se încadrează în categoria plusurilor de umplere. Este adevărat:{
+~%99.99999%Au o formă rotundă-ovalară, cu contur regulat, bine precizat, care prezintă la locul de contact cu lumenul un colet sau pedicul mai îngust decât restul pungii diverticulare
+~Au o formă triunghiulară, cu baza la nivelul lumenului și vârful spre exterior, contur regulat, bine precizat, aproape rectilinii
+~Au o bază largă de implantare și se evacuează complet
+~Cel mai frecvent apar la nivelul esofagului, duodenului și colonului 
+~Apar în urma unor procese de fibroză, retractile
+}
+
+Spre deosebire de nișa benignă, nișa malignă are următoarele caracteristici:{
+~%99.99999%Este o imagine adițională care proemină din conturul lumenului digestiv
+~Este o imagine adițională care este încastrată în conturul lumenului digestiv
+~Suprafața nișei maligne este mai mare decât profunzimea acesteia
+~Intensitatea opacității substanței de contrast este mai mică la nivelul ulcerației decât în segmentul de tub digestiv sănătos
+~Nișa prezintă un contur regulat, iar în jurul ei există o bandă de transparență circumscrisă – edem perilezional
+}
+
+Despre minusurile de umplere este fals:{
+~%99.99999%Lacunele se evidențiază radiologic prin imagini protruzive de origine inflamatorie sau tumorală, la nivelul lumenului digestiv
+~Pot fi unice sau multiple, rotunde, ovalare sau neregulate, cu dimensiuni variabile
+~Lacuna benignă poate prezenta ulcerații – opacitate rotundă în mijlocul lacunei cu aspect de „inel cu pecete”
+~Lacuna malignă are o suprafață anfractuoasă cu insinuarea substanței de constrast în denivelările tumorii determinând apariția semitonului 
+~Sunt defecte ale mucoasei, de suprafață și profunzime mică, de formă triunghiulară de 1-2 mm, care se pun în evidență la examinarea în strat subțire
+}
+
+Diverticulii esofagieni prezintă următoarele caracteristici:{
+~%99.99999%Diverticulul Zenker este cea mai caracteristică imagine diverticulară, fiind situat pe peretele posterior al faringelui
+~Diverticulii congenitali se deosebesc de cei dobândiți prin interesarea tuturor straturilor anatomice
+~Diverticulii de pulsiune apar în zone cu relaxare musculară prin prolabarea mucoasei printre fibrele musculare sub acțiunea presiunii interne
+~Simptomul caracteristic dat de prezența diverticulului Zenker este disfagia
+~Diverticulii de tracțiune sunt datorați unor procese sclero-retractile de vecinătate ce antrenează peretele esofagian
+}
+
+Esofagul terminal și polul superior al stomacului sunt menținute în limite topografice normale de către:{
+~%99.99999%Ligamentul gastrofrenic, care fixează fornixul gastric
+~Gradul de deschidere a unghiului cardio-tuberozitar
+~Lungimea esofagului abdominal, care cu cât este mai mare, cu atât cresc șansele pentru angajarea transhiatală a stomacului
+~Gradul de relaxare diafragmatică, care trebuie să fie cât mai mare pentru a nu se lărgi hiatusul diafragmatic
+~Ligamentul gastrocolic
+}
+
+Este fals despre herniile hiatale paraesofagiene:{
+~%99.99999%Se asociază întotdeauna cu reflux gastro-esofagian
+~Hernia este rotund-ovalară, cu axul mare vertical, iar punga herniară poate prezenta nivel hidro-aeric sau este în totalitate opacifiată cu bariu
+~Sunt voluminoase și ireductibile
+~Apar cel mai frecvent datorită unui brahiesofag
+~Fornixul herniază de-a lungul marginii stângi a esofagului
+}
+
+Este adevărat despre eroziunile de la nivel gastric:{
+~%99.99999%Sunt pierderi profunde de substanță, care interesează și submucoasa
+~Sunt pierderi mici de substanță, dispuse superficial, la nivelul mucoasei gastrice
+~Sunt manifestarea anatomică locală a bolii ulceroase
+~Sunt considerate stadiul de început al unui ulcer 
+~Sunt vizibile la examenul radiologic
+}
+
+Complicațiile ulcerului gastric sunt următoarele, cu excepția:{
+~%99.99999%Hemoragia
+~Penetrația
+~Cancerul gastric
+~Perigastrita
+~Perforația
+}
+
+Despre ulcerul gastric nu putem afirma:{
+~%99.99999%Pierderea de substanță este consecința tulburărilor de irigație sanguină locală, care duc la infarct hemoragic sau anemic
+~Pierderea de substanță este profundă, până la nivelul submucoasei
+~La examenul radiologic, imaginea tipică este de nișă ulceroasă, situată pe curburile sau pereții stomacului 
+~Evoluția sa este agravată de apariția dereglărilor secretorii în urma cărora teritoriul afectat este digerat prin acțiunea peptică a sucului gastric
+~Se asociază cu hipersecreție, peristaltism accelerat, hipertonie și întârzierea evacuării bariului
+}
+
+Modificările radiologice care apar la începutul evoluției cancerului gastric sunt:{
+~%99.99999%Rigiditatea 
+~Prezența unor eroziuni superficiale
+~Contractura localizată pe mica curbură
+~Traiectul neregulat al unui pliu de mucoasă, neobișnuit pentru regiunea examinată
+~Oprirea bruscă a pliurilor la un anumit nivel
+}
+
+Selectați asocierile corecte despre tumorile gastrice benigne:{
+~%99.99999%Adenom – țesut epitelial
+~Leiomiom – țesut muscular striat
+~Lipom – țesut adipos
+~Endoteliom – țesut epitelial
+~Limfom – țesut conjunctiv
+}
+
+Caracterele de malignitate ale unei tumori gastrice pot fi:{
+~%99.99999%Stenoza este axială
+~Segmentul substenotic se opacifiază mai târziu, după umplerea celui suprastenotic
+~Zona de stenoză este mai lungă, cu contur neregulat
+~Pliurile se întrerup brusc la nivelul stenozei
+~La schimbarea poziției se destinde în grade variate
+}
+
+Modificările radiologice apărute în cadrul unui ulcer duodenal pot fi următoarele:{
+~%99.99999%În ulcerele recente, edemul apare ca o zonă clară, continuă, regulată care o izolează de restul duodenului, imagine „în cocardă”
+~Nişa apare sub forma unor opacităţi, care persistă pe una din feţele sau curburile douodenului, fiind înconjurată de o zonă de edem
+~Pliurile de mucoasă nu converg spre nișă
+~Ca semne radiologice de însoțire putem observa motilitate crescută, peristaltism accentuat, și un bulb „iritabil”
+~Apar semne de excitație gastrică: hipotonie, hipersecreție
+}
+
+Forma scleroedematoasă a ulcerului duodenal se deosebește de celelalte forme prin:{
+~%99.99999%Deformările contururilor bulbului se accentuează în mod evident între puseuri
+~Singura modificare radiologică elementară este nişa, a cărei imagine dispare între puseuri
+~La deformările permanente datorită sclerozei se adaugă între puseuri și deformări datorită edemului
+~Pot fi evidenţiate modificări de stenoză bulbară
+~Apar modificări de pseudoduodenită
+}
+
+Despre ileita terminală, numită și Boala Chron, este fals:{
+~%99.99999%În faza evolutivă iniţială se evidențiază modificări funcţionale ale ansei ileale - hipotonia şi staza
+~Modificările morfologice apar destul de târziu şi sunt reprezentate de atrofia pliurilor mucoasei și infiltraţia pereţilor, care transformă ileonul într-un tub rigid
+~Segmentul afectat prezinta peristaltica accentuata.
+~Faza evolutivă tardivă este dominată de procese de fibroză, retractilă, care produc îngustarea neregulată a lumenului (uneori prin retracţia rigidă a unui singur segment)
+~Fistulele şi procesele de periviscerită, care fixează segmentul afectat, reprezină complicaţii frecvente în cursul unei evoluţii îndelungate
+}
+
+Despre diverticulii colonici este adevărat:{
+~%99.99999%Sunt procese inflamatorii ale colonului cu gravitate şi întindere diferită, mai frecvent limitate la anumite segmente (cele distale)
+~Radiologic se observă tulburări de tranzit intestinal, accelerat sau întârziat, hipertonie care produce îngustarea lumenului și hipersecreţie care se traduce prin opacifierea inomogenă a segmentulului afectat
+~Apar sub forma unor opacităţi adiţionale, rotund-ovalare, dispuse în vecinătatea lumenului colonului de care se leagă printr-un pedicul vizibil pe imagine
+~Nu persistă de obicei după evacuarea colonului de substanţă baritată
+~În diverticuloza colonică, haustraţiile îşi pierd simetria şi dispoziţia, după care dispar de tot
+}
+
+Forma infiltrativă a tumorilor de colon maligne se caracterizează prin:{
+~%99.99999%Se manifestă radiologic iniţial prin apariţia zonelor de rigiditate parietală
+~Conturul rigid devine rectiliniu şi este lipsit de motilitate
+~În evoluție, conturul apare şters, uşor neregulat, prin prezența de mici dinţături
+~Pliurile sunt dezorganizate, ulterior dispar
+~În stadiile avansate se produce stenoza axială a lumenului, la nivelul căreia pereţii apar rigizi, inextensibili, cu neregularităţi de contur
+}
+
+Despre forma vegetantă a tumorilor maligne de colon nu putem afirma:{
+~%99.99999%Forma vegetantă se traduce prin imagini lacunare, unice, cu contur regulat și bine definit
+~Lacunele se pot proiecta marginal sau central
+~Realizează o stenoză malignă, caracterizată prin poziția axială și conturul regulat
+~Pe aria imaginii lacunare se priectează opacităţi liniare, neregulate, cu dispoziţie anarhică – relieful malign
+~Se asociază încă din stadiile incipiente cu leziuni ulcerative
+}
+
+Despre tumorile benigne ale colonului este adevărat:{
+~%99.99999%Sunt în marea majoritate a cazurilor polipi
+~Polipul solitar se localizează cel mai frecvent la nivelul cecului și colonului ascendent
+~Produc o imagine lacunară, de formă rotundă, regulată, cu contururi nete, de dimensiuni variabile
+~Supleţea pereţilor de vecinătate este păstrată, nu prezintă întreruperi de contur
+~Se pot asocia frecvent cu leziuni ulcerative
+}
+
+Ocluzia intestinală are următoarele caracteristici:{
+~%99.99999%Examenul radiologic baritat evidențiază cel mai bine acumularea de gaze în ansele situate deasupra zonei obstruate 
+~În primele ore de la instalarea ocluziei imaginea radiologică e dominată de nivele hidro-aerice
+~În ocluzia ileală, nivelele hidro-aerice sunt localizate în regiunea superioară a hemiabdomenului stâng
+~În ocluzia jejunală, nivelele hidro-aerice sunt localizate în zona centrală a abdomenului, cu formă ovalară, cu diametrul mare dispus orizontal
+~În ocluziile mecanice joase şi mai ales în ileusul paralitic, nivelele hidro-aerice apar în mai multe regiuni ale abdomenului
+}
+
