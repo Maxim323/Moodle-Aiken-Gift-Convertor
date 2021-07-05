@@ -1,26 +1,7 @@
-import docx
-import docx2txt
-import io
-# img_viewer.py
-
 import PySimpleGUI as sg
-import os.path
 
 
-# inca neimplentata
-def info():
-    print('- Aiken - press 0')
-    print('- GIFT - press 1')
-    format = input('Ce format vrei sa folosesti ? ')
-    print(format)
-
-    print('\n')
-    print(r"ex: C:/Users/a1/Desktop/Poze absilvire/Radiologie.docx")
-    path = input('Introdu calea fisierului inlocuind \ cu /: ')
-    print(path)
-
-
-def aiken(correct, path):
+def aiken(correct, path,filename):
     questions = []
     answers_a = []
     answers_b = []
@@ -74,8 +55,8 @@ def aiken(correct, path):
     answers_e = [s.replace("e.", "E.") for s in answers_e]
 
     # scrierea in fisier
-    textfile = open("firstdemo.txt", "w", encoding='utf-8')
-    for j in range(len(questions)):
+    textfile = open(filename, "w", encoding='utf-8')
+    for j in range(len(correct)):
         textfile.write(questions[j] + "\n"
                        + answers_a[j]
                        + answers_b[j]
@@ -85,8 +66,15 @@ def aiken(correct, path):
                        + "ANSWER: " + correct[j] + "\n" + "\n")
     textfile.close()
 
+    print(questions)
+    print(answers_a)
+    print(answers_b)
+    print(answers_c)
+    print(answers_d)
+    print(answers_e)
+    print("Succes")
 
-def gift(correct, path):
+def gift(correct, path,filename):
     questions = []
     answers_a = []
     answers_b = []
@@ -319,7 +307,7 @@ def gift(correct, path):
                 answers_e[y] = "%9.99999%" + answers_e[y]
 
     # scrierea in fisier
-    textfile = open("seconddemo.txt", "w", encoding='utf-8')
+    textfile = open(filename, "w", encoding='utf-8')
     for j in range(len(questions)):
         textfile.write(questions[j] + "{" + "\n"
                        + "~" + answers_a[j]
@@ -329,32 +317,54 @@ def gift(correct, path):
                        + "~" + answers_e[j] + "}" + "\n" + "\n")
     textfile.close()
 
+    print(questions)
     print(answers_a)
     print(answers_b)
     print(answers_c)
     print(answers_d)
     print(answers_e)
+    print("Succes")
 
+def gui():
+    # Define the window's contents
+    filename = sg.popup_get_file('Enter the file you wish to process')
+
+    layout = [[
+              sg.Titlebar("MedAcces Custom Software")],
+              [sg.Text("Ce format doresti fisierul final ? (Aiken sau Gift)")],
+              [sg.Input()],
+              [sg.Text("Introdu numele fisierul nou: ")],
+              [sg.Input()],
+              [sg.Text("Introdu raspunsurile corecte pe rand, cu virgula intre ele: ")],
+              [sg.Text("ex: A,B,C,DE,ABC")],
+              [sg.Input()],
+              [sg.Button('Procesare')]
+    ]
+
+    # Create the window
+    window = sg.Window('Window Title', layout)  # Part 3 - Window Defintion
+
+    # Display and interact with the Window
+    event, values = window.read()  # Part 4 - Event loop or Window.read call
+
+
+    return filename,values
+    # Finish up by removing from the screen
+    window.close()  # Part 5 - Close the Window
 
 if __name__ == '__main__':
-    answers_gift = ['A', 'AB', 'ABC', 'ABCD', 'ABCDE', 'B', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A',
-                    'A',
-                    'A'
-        , 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A'
-        , 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A'
-        , 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A'
-        , 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A']
 
-    answers_aiken = ['A', 'A', 'A', 'A', 'A', 'B', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A',
-                     'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A',
-                     'A', 'A'
-        , 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A'
-        , 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A'
-        , 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A']
+    info = gui()
+    path = info[0]
+    results = info[1][2]
+    results = results.split(',')
+    filename = info[1][1] +".txt"
 
-    path = 'C:/Users/a1/PycharmProjects/MedAceesAutomation/test.txt'
+    if info[1][0] == "Aiken":
+        aiken(results,path,filename)
+        print("Aikne")
+    elif info[1][0] == "Gift":
+        print("Gift")
+        gift(results,path,filename)
 
-    # raspunsuri corecte, path`ul fisierului sursa
 
-    gift(answers_gift, path)
-    aiken(answers_aiken, path)
