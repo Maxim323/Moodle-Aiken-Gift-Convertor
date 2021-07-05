@@ -284,26 +284,26 @@ def gift(correct, path,filename):
                 answers_e[y] = "%19.99999%" + answers_e[y]
 
             if (correct[y][3] == "A"):
-                answers_a[y] = "%9.99999%" + answers_a[y]
+                answers_a[y] = "%19.99999%" + answers_a[y]
             elif (correct[y][3] == "B"):
-                answers_b[y] = "%9.99999%" + answers_b[y]
+                answers_b[y] = "%19.99999%" + answers_b[y]
             elif (correct[y][3] == "C"):
-                answers_c[y] = "%9.99999%" + answers_c[y]
+                answers_c[y] = "%19.99999%" + answers_c[y]
             elif (correct[y][3] == "D"):
-                answers_d[y] = "%9.99999%" + answers_d[y]
+                answers_d[y] = "%19.99999%" + answers_d[y]
             elif (correct[y][3] == "E"):
-                answers_e[y] = "%9.99999%" + answers_e[y]
+                answers_e[y] = "%19.99999%" + answers_e[y]
 
             if (correct[y][4] == "A"):
-                answers_a[y] = "%9.99999%" + answers_a[y]
+                answers_a[y] = "%19.99999%" + answers_a[y]
             elif (correct[y][4] == "B"):
-                answers_b[y] = "%9.99999%" + answers_b[y]
+                answers_b[y] = "%19.99999%" + answers_b[y]
             elif (correct[y][4] == "C"):
-                answers_c[y] = "%9.99999%" + answers_c[y]
+                answers_c[y] = "%19.99999%" + answers_c[y]
             elif (correct[y][4] == "D"):
-                answers_d[y] = "%9.99999%" + answers_d[y]
+                answers_d[y] = "%19.99999%" + answers_d[y]
             elif (correct[y][4] == "E"):
-                answers_e[y] = "%9.99999%" + answers_e[y]
+                answers_e[y] = "%19.99999%" + answers_e[y]
 
     # scrierea in fisier
     textfile = open(filename, "w", encoding='utf-8')
