@@ -1,6 +1,5 @@
 import PySimpleGUI as sg
 
-
 def aiken(correct, path,filename):
     questions = []
     answers_a = []
@@ -252,37 +251,37 @@ def gift(correct, path,filename):
 
         if (len(correct[y])) == 5:
             if (correct[y][0] == "A"):
-                answers_a[y] = "%9.99999%" + answers_a[y]
+                answers_a[y] = "%19.99999%" + answers_a[y]
             elif (correct[y][0] == "B"):
-                answers_b[y] = "%9.99999%" + answers_b[y]
+                answers_b[y] = "%19.99999%" + answers_b[y]
             elif (correct[y][0] == "C"):
-                answers_c[y] = "%9.99999%" + answers_c[y]
+                answers_c[y] = "%19.99999%" + answers_c[y]
             elif (correct[y][0] == "D"):
-                answers_d[y] = "%9.99999%" + answers_d[y]
+                answers_d[y] = "%19.99999%" + answers_d[y]
             elif (correct[y][0] == "E"):
-                answers_e[y] = "%9.99999%" + answers_e[y]
+                answers_e[y] = "%19.99999%" + answers_e[y]
 
             if (correct[y][1] == "A"):
-                answers_a[y] = "%9.99999%" + answers_a[y]
+                answers_a[y] = "%19.99999%" + answers_a[y]
             elif (correct[y][1] == "B"):
-                answers_b[y] = "%9.99999%" + answers_b[y]
+                answers_b[y] = "%19.99999%" + answers_b[y]
             elif (correct[y][1] == "C"):
-                answers_c[y] = "%9.99999%" + answers_c[y]
+                answers_c[y] = "%19.99999%" + answers_c[y]
             elif (correct[y][1] == "D"):
-                answers_d[y] = "%9.99999%" + answers_d[y]
+                answers_d[y] = "%19.99999%" + answers_d[y]
             elif (correct[y][1] == "E"):
-                answers_e[y] = "%9.99999%" + answers_e[y]
+                answers_e[y] = "%19.99999%" + answers_e[y]
 
             if (correct[y][2] == "A"):
-                answers_a[y] = "%9.99999%" + answers_a[y]
+                answers_a[y] = "%19.99999%" + answers_a[y]
             elif (correct[y][2] == "B"):
-                answers_b[y] = "%9.99999%" + answers_b[y]
+                answers_b[y] = "%19.99999%" + answers_b[y]
             elif (correct[y][2] == "C"):
-                answers_c[y] = "%9.99999%" + answers_c[y]
+                answers_c[y] = "%19.99999%" + answers_c[y]
             elif (correct[y][2] == "D"):
-                answers_d[y] = "%9.99999%" + answers_d[y]
+                answers_d[y] = "%19.99999%" + answers_d[y]
             elif (correct[y][2] == "E"):
-                answers_e[y] = "%9.99999%" + answers_e[y]
+                answers_e[y] = "%19.99999%" + answers_e[y]
 
             if (correct[y][3] == "A"):
                 answers_a[y] = "%9.99999%" + answers_a[y]
@@ -326,8 +325,10 @@ def gift(correct, path,filename):
     print("Succes")
 
 def gui():
-    # Define the window's contents
     filename = sg.popup_get_file('Enter the file you wish to process')
+
+
+
 
     layout = [[
               sg.Titlebar("MedAcces Custom Software")],
@@ -359,6 +360,8 @@ if __name__ == '__main__':
     results = info[1][2]
     results = results.split(',')
     filename = info[1][1] +".txt"
+
+
 
     if info[1][0] == "Aiken":
         aiken(results,path,filename)
